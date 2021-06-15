@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.60c9eb5187ea7bfd12ab4accf669f60b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.1c1d4c92957958f9f2c1d65657a7a408.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.bd8c607e30cb481171a8f4feb18bd277.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.77e60ecbd8f2365b0ebcee6a3dbd87a8.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.64dc9ff3b102ae7ef7d283a47a74d24d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "tiagocha",
+  "short_name": "tiagocha",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "tiagocha",
+  "background_color": "#ffffff",
+  "theme_color": "#4f4f4f"
+}
