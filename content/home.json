@@ -9,13 +9,13 @@
         {
           "img": "/img/uploads/site-novo-banner-desk-principal-1-.png",
           "link": "https://tiagocha.netlify.app/search?term=baunilha",
-          "alt": "Headset banner",
+          "alt": "Essência e pastas sabor baunilha perfeitas para suas receitas.",
           "start": "",
           "end": ""
         },
         {
           "img": "/img/uploads/site-novo-banner-desk-principal-_1_.webp",
-          "alt": "Banner sample two",
+          "alt": "Essência e pastas sabor baunilha perfeitas para suas receitas.",
           "start": "",
           "end": "",
           "link": "https://tiagocha.netlify.app/search?term=baunilha"
@@ -33,6 +33,23 @@
       "limit": 12,
       "page": 1,
       "sort": "sales"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/2021_bs_caixa-bolo_desk.webp"
+        },
+        {
+          "img": "/img/uploads/2021_bs_caixa-bolo_desk.png"
+        },
+        {
+          "img": "/img/uploads/2021_bs_confeitos-sprinkles_desk.webp"
+        },
+        {
+          "img": "/img/uploads/2021_bs_confeitos-sprinkles_desk.png"
+        }
+      ]
     },
     {
       "type": "page-title",
