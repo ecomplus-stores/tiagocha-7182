@@ -1,24 +1,24 @@
 {
-  "store_id": 1191,
-  "name": "tiagocha",
   "domain": "tiagocha.netlify.app",
-  "short_name": "tiagocha",
-  "description": "tiagocha",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#4f4f4f",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/tiagocha",
+  "logo": "/img/uploads/logo-barradoce.png",
+  "name": "tiagocha",
+  "short_name": "tiagocha",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo-bd.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/tiagocha"
+  "secondary_color": "#e7e7e7",
+  "icon": "/img/uploads/logo-bd.png",
+  "store_id": 1191,
+  "description": "tiagocha",
+  "large_icon": "/img/uploads/logo-bd.png"
 }
