@@ -1964,6 +1964,18 @@
     </url>
   
     <url>
+      <loc>https://tiagocha.netlify.app/teste-categoria-filha</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tiagocha.netlify.app/teste-categoria-neta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://tiagocha.netlify.app/frame-de-corte---academia-de-confeitaria-by-flavio-federico</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
